@@ -10,7 +10,7 @@
 
 </script>
 <body>
-<h1>Hello World</h1>
+<h1>Site able to mine Webchain Coins (WEB)</h1>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
