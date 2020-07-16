@@ -12,6 +12,9 @@
 <body>
 <h1>Site able to mine Webchain Coins (WEB)</h1>
 <p>I'm hosted with GitHub Pages.</p>
+    
+   <p> <div id="like_button_container"></div> </p>
+    
     <p>This page demonstrates using React with no build tooling.</p>
     <p>React is loaded as a script tag.</p>
 
